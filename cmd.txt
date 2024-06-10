@@ -1,0 +1,6 @@
+Start MySQL Server
+sudo systemctl start mysql
+
+Login to MySQL as root
+mysql -u root -p
+
